@@ -1,4 +1,4 @@
-# 📘 **Hospital Management System (HMS)**
+# 📘 **Hospital Management System IITM**
 
 A role-based web application built using **Flask**, **SQLite**, **Bootstrap**, and **Jinja2** to manage hospital operations such as appointments, patient history, doctor availability, and treatment records.
 
